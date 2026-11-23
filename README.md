@@ -1,3 +1,9 @@
+## 🚀 Live Application
+
+Try the Loan Default Risk Prediction System:
+
+[Open Live App]
+(https://loan-default-risk-prediction-hrkmviryjrbqcibyeypaik.streamlit.app/)
 
 # Loan Default Risk Prediction System
 
